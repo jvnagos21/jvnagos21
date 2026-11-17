@@ -16,7 +16,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 sou formado em **Análise e Desenvolvimento de Sistemas** (UNIFBV) e formado em **Desenvolvimento Web Full-Stack** pela Kenzie Academy Brasil
-- 🏛️ Jáfui Estagiário de Tecnologia na Prefeitura de Olinda, apoiando a área de educação
+- 🏛️ Já fui Estagiário de Tecnologia na Prefeitura de Olinda, apoiando a área de educação
 - 🤖 Já ensinei robótica com **LEGO Spike** em escolas
 - 👥 Experiência com **SCRUM** e trabalho em equipe em projetos colaborativos
 - 📚 Estudando **Java** e **C#** para ampliar meu perfil além do front-end
