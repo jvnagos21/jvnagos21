@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>"i create things."</i><br>
-  Desenvolvedor web com foco em front-end, direto de Pernambuco 🇧🇷
+  Desenvolvedor web com foco em back-end, direto de Pernambuco 🇧🇷
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🏛️ Já fui Estagiário de Tecnologia na Prefeitura de Olinda, apoiando a área de educação
 - 🤖 Já ensinei robótica com **LEGO Spike** em escolas
 - 👥 Experiência com **SCRUM** e trabalho em equipe em projetos colaborativos
-- 📚 Estudando **Java** e **C#** para ampliar meu perfil além do front-end
+- 📚 Estudando **Java** e **C#** para ampliar meu perfil de back-end
 
 ## 🛠️ Tecnologias
 
